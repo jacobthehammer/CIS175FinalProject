@@ -1,0 +1,8 @@
+com/hemmerich/servicemonitor/AdGuardStatusServlet.class
+com/hemmerich/servicemonitor/SettingsServlet.class
+com/hemmerich/servicemonitor/JellyfinStatusServlet.class
+com/hemmerich/servicemonitor/JakartaRestConfiguration.class
+com/hemmerich/servicemonitor/SavannahStatusServlet.class
+com/hemmerich/servicemonitor/resources/JakartaEE10Resource.class
+com/hemmerich/servicemonitor/DBConnection.class
+com/hemmerich/servicemonitor/HistoryServlet.class
